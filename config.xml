@@ -1,0 +1,11 @@
+<widget id="com.example.hello" version="0.0.1">
+        <name>Polla Mundialista</name>
+        <description>
+            Pronósticos Polla Mundialista
+        </description>
+        <author email="dmacias@bleustudio.com" href="http://bleustudio.com">
+            BleuStudio Inc.
+        </author>
+        <content src="index.html" />
+        <access origin="*" />
+</widget>
